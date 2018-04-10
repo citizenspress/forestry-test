@@ -1,6 +1,5 @@
 ---
 pages:
-- post/test.md
 - news/test-new-post.md
 hide_body: false
 fields:
@@ -22,3 +21,5 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+  default:
+  - news
