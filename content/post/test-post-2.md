@@ -1,8 +1,7 @@
 +++
 date = "2018-04-10T14:08:24+00:00"
-draft = true
 tags = ["news"]
-thumbnail = ""
+thumbnail = "/uploads/2018/04/10/sound.png"
 title = "Test Post 2"
 
 +++
