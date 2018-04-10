@@ -1,13 +1,27 @@
 +++
-title = "About CUPE"
-date = "2016-11-09"
+title = "About CUPE 1974"
+date = "2018-01-01"
 
 menu = "main"
 +++
 
-<img src="/img/cupe-long.png" alt="CUPE" style="width: 100%;"/>
+![](/img/avatar.png)
 
-#### CUPE is Canada's largest hospital union
+
+CUPE Local 1974 serves members working for Kingston General Hospital. We have a full time president working in our on-site office on Connell 8…Ext 6011. We hold our monthly membership meetings at our local hall at 35 Concession Street. Information relevant to union members is posted on this website and cupe boards located throughout Kingston General Hospital. We also have a facebook page local 1974. 
+
+Members of our executive regularly tweet while attending events. 
+
+You can join our flight squad to attend rallies by calling the union office and providing your name, email and contact phone number.
+
+Kingston Hospital Workers are a proud local of the Canadian Union of Public Employees (CUPE).
+
+
+# CUPE is Canada's largest hospital union
+
+
+
+<img src="/img/cupe-long.png" alt="CUPE" style="width: 100%;"/>
 
 <img src="/img/post/cupe-all.jpg" alt="CUPE" style="width: 100%;"/>
 
@@ -20,7 +34,7 @@ CUPE is [Canada’s largest union](https://cupe.ca/about-us) with over 639,000 m
 - CUPE’s job security and seniority provisions are the strongest of any hospital union in Ontario.
 - CUPE has an excellent track record of negotiating strong collective agreements, and of protecting and making gains at the bargaining table.
 
-## Ontario Council of Hospital Unions
+# Ontario Council of Hospital Unions
 
 <img src="/img/ochu-logo.jpeg" alt="OCHU" align="right" style="width: 50%;"/>
 
