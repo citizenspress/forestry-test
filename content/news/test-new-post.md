@@ -1,6 +1,5 @@
 +++
 date = "2018-04-10T00:54:44+00:00"
-draft = true
 thumbnail = "/uploads/2018/04/10/sound.png"
 title = "Test New Post"
 type = ""
