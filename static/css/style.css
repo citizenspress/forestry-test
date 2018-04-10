@@ -139,7 +139,7 @@ body {
 
 .btn:hover {
 	color: #fff;
-	background: #ef5285;
+	background: #2e8426;
 }
 
 /*** Columns ***/
@@ -313,7 +313,7 @@ blockquote {
 	font-style: italic;
 	color: #666;
 	padding: 5px 0 5px 15px;
-	border-left: 5px solid #ef5285;
+	border-left: 5px solid #2e8426;
 }
 
 sup {
@@ -354,7 +354,7 @@ a {
 }
 
 a:hover {
-	color: #337ab7;
+	color: #263584;
 }
 
 /*** Lists ***/
@@ -402,7 +402,7 @@ select {
 
 /*** Header ***/
 .header {
-	background: #fff;
+	background: #FFF;
 }
 
 .logo {
@@ -418,8 +418,9 @@ select {
 .logo__title {
 	font-size: 32px;
 	font-size: 2.5rem;
+	font-style: italic;
 	line-height: 1;
-	color: #337ab7;
+	color: #2e8426;
 }
 
 .logo__tagline {
@@ -427,7 +428,7 @@ select {
 	font-size: 14px;
 	font-size: 0.875rem;
 	line-height: 1;
-	color: #ef5285;
+	color: #000;
 	padding-top: 10px;
 	margin-top: 10px;
 	border-top: 1px solid #e5e5e5;
@@ -437,7 +438,7 @@ select {
 	border: 0;
 	margin: 0;
 	height: 5px;
-	background: #ef5285;
+	background: #2e8426;
 }
 
 /*** Navigation — Responsive-nav.js ***/
@@ -499,7 +500,7 @@ select {
 }
 
 .opened.menu__list {
-	border-top: 1px solid #ef5285;
+	border-top: 1px solid #2e8426;
 }
 
 .menu__item {
@@ -509,11 +510,11 @@ select {
 }
 
 .menu__item:hover {
-	background: #337ab7;
+	background: #2e8426;
 }
 
 .menu__item--active {
-	background: #337ab7;
+	background: #2e8426;
 }
 
 .menu__item:first-child {
@@ -534,7 +535,7 @@ select {
 	}
 
 	.menu {
-		border-bottom: 5px solid #337ab7;
+		border-bottom: 5px solid #2e8426;
 		min-height: 42px;
 	}
 
@@ -571,7 +572,7 @@ select {
 }
 
 .meta a:hover {
-	color: #ef5285;
+	color: #2e8426;
 }
 
 .meta span {
@@ -622,11 +623,11 @@ select {
 
 .post__content a, .list__excerpt a, .warning a {
 	font-weight: 700;
-	color: #337ab7;
+	color: #2e8426;
 }
 
 .post__content a:hover, .list__excerpt a:hover, .warning a:hover {
-	color: #ef5285;
+	color: #2e8426;
 	text-decoration: underline;
 }
 
@@ -649,7 +650,7 @@ select {
 }
 
 .tags__item:hover {
-	background: #ef5285;
+	background: #2e8426;
 }
 
 .tags__link, .tags__link:hover {
@@ -662,7 +663,7 @@ select {
 	float: left;
 	padding: 8px;
 	margin-right: 6px;
-	background: #ef5285;
+	background: #2e8426;
 }
 
 .icon-tag {
@@ -753,7 +754,7 @@ select {
 
 .pagination__item:hover, .pagination__item--current {
 	color: #fff;
-	background: #ef5285;
+	background: #2e8426;
 }
 
 /*** Post Navigation ***/
@@ -883,7 +884,7 @@ input[type=text], input[type=email], input[type=tel], input[type=url] {
 
 input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover,
 input[type=url]:hover, textarea:hover {
-	border: 1px solid #ef5285;
+	border: 1px solid #2e8426;
 }
 
 input[type=submit] {
@@ -892,7 +893,7 @@ input[type=submit] {
 	font-weight: 700;
 	color: #fff;
 	padding: 10px 15px;
-	background: #ef5285;
+	background: #2e8426;
 	cursor: pointer;
 	text-transform: uppercase;
 	-webkit-transition: all 0.1s linear;
@@ -978,7 +979,7 @@ textarea {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #ef5285;
+	border-bottom: 3px solid #2e8426;
 }
 
 .widget-social__link {
@@ -1019,7 +1020,7 @@ textarea {
 
 .widget__link--taglist:hover, .widget .widget__link--taglist:hover {
 	color: #fff;
-	background: #ef5285;
+	background: #2e8426;
 }
 
 /*** Recent Posts Widget ***/
