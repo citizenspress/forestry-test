@@ -1,6 +1,7 @@
 ---
 pages:
 - post/test-post-2.md
+- news/test-title-5.md
 - news/test-new-post.md
 hide_body: false
 fields:
