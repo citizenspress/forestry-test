@@ -1,0 +1,31 @@
+baseurl = "/"
+title = "CUPE Hospitals"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+    name = "CUPE Hospitals"
+    bio = "The Canadian Union of Public Employees (CUPE) is the largest healthcare union in Canada."
+    avatar = "img/avatar.png"
+
+
+[Params]
+    subtitle = "CUPE is Canada's largest healthcare union" # Subtitle of your site
+    description = " The Canadian Union of Public Employees (CUPE) is the largest healthcare union in Canada." # Description of your site
+    opengraph = true
+    readmore = false # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post"]
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
