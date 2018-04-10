@@ -20,11 +20,11 @@
 	<div class="container container-outer">
 		<header class="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 			<div class="container container-inner clearfix">
-				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
-					<a class="logo__link" href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">
-						<h1 class="logo__title">{{ .Site.Title }}</h1>
-						{{ with .Site.Params.subtitle }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
-					</a>
+			  <div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
+			   <a href="{{ "" | relLangURL }}">
+<img src="/img/avatar.png">
+</a>
+					
 				</div>
 			</div>
 			{{ partial "menu.html" . }}
