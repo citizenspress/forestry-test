@@ -19,7 +19,6 @@ fields:
   hidden: false
   default: ''
 - type: tag_list
-  name: tags
-  label: Tags
-  default:
-  - news
+  name: categories
+  label: Categories
+  default: []
