@@ -2,6 +2,7 @@
 pages:
 - post/test-post-2.md
 hide_body: false
+is_partial: false
 fields:
 - name: thumbnail
   label: Thumbnail
