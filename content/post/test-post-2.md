@@ -1,7 +1,6 @@
 +++
-categories = ["news"]
+
 date = "2018-04-10T14:08:24+00:00"
-tags = ["news"]
 thumbnail = "/uploads/2018/04/10/sound.png"
 title = "This is the title of the test post"
 
