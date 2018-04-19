@@ -41,15 +41,13 @@ CUPE’s job security and seniority provisions are the strongest of any hospital
 
 ## CUPE's Superior Layoff, Recall and Bumping Language 
 
-Hospital workers have made very real gains in job security as a result of OCHU’s commitment in collective bargaining to obtain the greatest possible degree of employment security for our members.
+Hospital workers have made very real gains in job security as a result of OCHU’s commitment in collective bargaining to obtain the greatest possible degree of employment security for our members. Under the CUPE Central Collective Agreement, the employer must give the union 5 months written notice of any pending layoffs or elimination of positions.
 
-Under the CUPE Central Collective Agreement, the employer must give the union 5 months written notice of any pending layoffs or elimination of positions.
+This notice triggers the Redeployment Committee under the CUPE Collective Agreement, which is entitled to ask for and to review all pertinent staffing and budget information related to the layoffs or the elimination of positions. The union can propose alternatives to layoff or elimination of positions and take those alternatives to the CEO and to the board of directors. In addition, packages must be offered to the same number of people that the hospital would otherwise be laying off. All of this must happen before any individual can receive notice of layoff. 
 
-This notice triggers the Redeployment Committee under the CUPE Collective Agreement, which is entitled to ask for and to review all pertinent staffing and budget information related to the layoffs. The union can propose alternatives to layoff and take those alternatives to the CEO and to the board of directors.
+Any individual CUPE members must each be given 5 months notice of layoff including those who have been bumped.
 
-All of this must happen before any individual can receive notice of layoff and then all individual CUPE members must also be given 5 months notice of layoff. In addition, packages must be offered to the same number of people that the hospital would otherwise be laying off.
-
-Employers don’t want to layoff CUPE members because there is a domino effect coming as a result of ‘chain bumping’.
+Employers don’t want to layoff CUPE members because there is a domino effect coming as a result of ‘chain bumping’. 
 
 The CUPE collective agreement provides for ‘chain bumping’, which is the right to bump anyone with less seniority than you in any job that you can do in the bargaining unit, in any department, on any shift. And anyone that you bump can also bump anyone whose job she can do at any site, on any schedule, on any shift that she chooses. And so on.
 
