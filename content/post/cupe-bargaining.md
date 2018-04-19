@@ -1,5 +1,7 @@
 +++
-date = "2018-04-10T14:08:24+00:00"
+categories = ["factsheets"]
+date = "2018-04-10T14:08:24Z"
+tags = ["bargaining"]
 thumbnail = "/img/post/bargaining.png"
 title = "CUPE & Collective Bargaining"
 categories = ["factsheets"]

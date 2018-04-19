@@ -1,14 +1,12 @@
 +++
-draft = false
-thumbnail = "/img/news/mike.jpg"
-date = "2017-10-20T10:00:00+05:30"
-title = "150 Kingston hospital staff push for better hospital funding at large Ottawa rally Friday"
-description = "More than 150 hospital staff from Kingston Health Sciences Centre KHSC), represented by the Canadian Union of Public Employees (CUPE 1974) will board several buses early Friday (October 27, 2017) morning and head to Ottawa. There, they will join hundreds of other hospital workers from across Ontario, for a noon rally at Ottawa’s Montfort Hospital, calling for better provincial funding for hospitals. The Ottawa rally is organized by the Ontario Council of Hospital Unions (OCHU/CUPE), CUPE’s hospital division in Ontario."
-tags = ["funding"] 
 categories = ["news"]
+date = "2017-10-20T10:00:00+05:30"
+description = "More than 150 hospital staff from Kingston Health Sciences Centre KHSC), represented by the Canadian Union of Public Employees (CUPE 1974) will board several buses early Friday (October 27, 2017) morning and head to Ottawa. There, they will join hundreds of other hospital workers from across Ontario, for a noon rally at Ottawa’s Montfort Hospital, calling for better provincial funding for hospitals. The Ottawa rally is organized by the Ontario Council of Hospital Unions (OCHU/CUPE), CUPE’s hospital division in Ontario."
+tags = ["funding"]
+thumbnail = "/img/news/mike.jpg"
+title = "150 Kingston hospital staff push for better hospital funding at large Ottawa rally Friday"
 
-+++ 
-
++++
 [_Click here to read the Kingston Whig-Standard article on the rally by Ian MacAlpine._](http://www.thewhig.com/2017/10/26/hospital-workers-to-join-rally-in-ottawa)
 
 #### CUPE PRESS RELEASE

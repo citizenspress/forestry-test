@@ -1,31 +1,26 @@
 baseurl = "/"
-title = "CUPE 1974"
+disqusShortname = ""
+googleAnalytics = ""
 languageCode = "en-us"
-paginate = "5" # Number of posts per page
+paginate = "5"
 theme = "mainroad"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-
+title = "CUPE 1974"
 [Author]
-    name = "CUPE 1974"
-    bio = "Kingston Hospital Workers are a local of the Canadian Union of Public Employees (CUPE), Canada's largest healthcare union."
-    avatar = "img/avatar.png"
-
-
-[Params]
-    subtitle = "Kingston's Hospital Workers" # Subtitle of your site
-    description = "CUPE Local 1974 is Kingston's Hospital Workers union." # Description of your site
-    opengraph = true
-    readmore = false # Show "Read more" button in list if true
-    leftsidebar = false # Move sidebar to the left side if true
-    authorbox = true
-    post_navigation = true
-    postSections = ["post"]
-
-
-[Params.widgets]
-    search = false # Enable "Search" widget
-    recent_articles = true # Enable "Recent arcticles" widget
-    categories = true # Enable "Categories" widget
-    tags = true # Enable "Tags" widget
-        tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+avatar = "img/avatar.png"
+bio = "Kingston Hospital Workers are a local of the Canadian Union of Public Employees (CUPE), Canada's largest healthcare union."
+name = "CUPE 1974"
+[params]
+authorbox = true
+description = "CUPE Local 1974 is Kingston's Hospital Workers union."
+leftsidebar = false
+opengraph = true
+post_navigation = true
+postsections = ["post"]
+readmore = false
+subtitle = "Kingston's Hospital Workers"
+[params.widgets]
+categories = true
+recent_articles = true
+search = false
+tags = true
+tags_counter = true

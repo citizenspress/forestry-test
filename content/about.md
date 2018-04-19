@@ -1,10 +1,10 @@
 +++
+date = "2018-01-01T00:00:00Z"
 title = "About CUPE 1974"
-date = "2018-01-01"
+type = "page"
+[menu.main]
 
-menu = "main"
 +++
-
 ![](/img/avatar.png)
 
 
