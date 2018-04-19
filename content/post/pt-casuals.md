@@ -4,8 +4,10 @@ thumbnail = "/img/post/precarious.png"
 title = "Part-Time and Casual Employees"
 categories = ["factsheets"]
 tags = ["bargaining"]
+description = "With a CUPE Collective Agreement part time and casual employees receive the same rights and benefits as full time employees such as job security, maternity leave, bereavement leave, safety footwear, vacation, etc."
 
 +++
+
 
 
 # Part time and Casual Employees

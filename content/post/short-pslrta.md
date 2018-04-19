@@ -4,6 +4,7 @@ thumbnail = "/img/post/short-pslrta.jpg"
 title = "Merger Process in Brief"
 categories = ["factsheets"]
 tags = ["bargaining"]
+description = "When two or more unions represent employees before the representation vote, the collective agreements from these unions form a ‘composite’ collective agreement after the vote. Under the composite collective agreement employees will continue to have the same rights they had under their collective agreement before the vote, with one key difference - all employees, from all unions involved, will be covered by the successful union's collective agreement."
 
 +++
 

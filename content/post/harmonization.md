@@ -4,6 +4,7 @@ thumbnail = "/img/post/harmonization.jpg"
 title = "Your Seniority and Wages After Merger"
 categories = ["factsheets"]
 tags = ["bargaining"]
+description = "With the merger ([under PSLRTA](/post/pslrta/)) you get the successful union’s seniority and Grievance provisions in their collective agreement but everything else has to be negotiated."
 
 +++
 
