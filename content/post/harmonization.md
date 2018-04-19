@@ -1,13 +1,12 @@
 +++
-date = "2018-04-10T14:08:24+00:00"
+categories = ["factsheets"]
+date = "2018-04-10T14:08:24Z"
+description = "With the merger ([under PSLRTA](/post/pslrta/)) you get the successful union’s seniority and Grievance provisions in their collective agreement but everything else has to be negotiated."
+tags = ["bargaining"]
 thumbnail = "/img/post/harmonization.jpg"
 title = "Your Seniority and Wages After Merger"
-categories = ["factsheets"]
-tags = ["bargaining"]
-description = "With the merger ([under PSLRTA](/post/pslrta/)) you get the successful union’s seniority and Grievance provisions in their collective agreement but everything else has to be negotiated."
 
 +++
-
 # Harmonization
 
 With the merger ([under PSLRTA](/post/pslrta/)) you get the successful union’s seniority and Grievance provisions in their collective agreement but everything else has to be negotiated. 

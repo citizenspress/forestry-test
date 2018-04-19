@@ -6,8 +6,6 @@ thumbnail = "/img/events/question.jpg"
 title = "CUPE Information Tables"
 
 +++
-
-
 Can’t make it to a CUPE information meeting?  
 
 CUPE information tables will be set up at KGH (Cafeteria) and HDH (Staff Lounge) everyday from 7am to 7pm so come visit us!
