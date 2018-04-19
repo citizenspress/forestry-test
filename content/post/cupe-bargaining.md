@@ -1,13 +1,11 @@
 +++
-date = "2018-04-10T14:08:24+00:00"
+categories = ["factsheets"]
+date = "2018-04-10T14:08:24Z"
+tags = ["bargaining"]
 thumbnail = "/img/post/bargaining.png"
 title = "CUPE & Collective Bargaining"
-categories = ["factsheets"]
-tags = ["bargaining"]
 
 +++
-
-
 # CUPE Bargaining
 
 CUPE bargaining sets the lead for all hospital Service, RPN, and Clerical workers in Ontario. Comparing our collective agreements to other unions bears this out. CUPE has superior language on seniority rights, job security, layoffs and recall, and health and safety to name but a few issues. This is true here at KGH and across the province.

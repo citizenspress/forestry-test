@@ -1,13 +1,11 @@
 +++
-date = "2018-04-10T14:08:24+00:00"
+categories = ["factsheets"]
+date = "2018-04-10T14:08:24Z"
+tags = ["bargaining"]
 thumbnail = "/img/post/short-pslrta.jpg"
 title = "Merger Process in Brief"
-categories = ["factsheets"]
-tags = ["bargaining"]
 
 +++
-
-
 # Hospital Mergers in Brief
 
 ## Table of Contents
