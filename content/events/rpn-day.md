@@ -1,6 +1,6 @@
 +++
 categories = ["events"]
-date = "2018-04-21T02:29:22+00:00"
+date = "2018-04-20T14:29:22+00:00"
 description = "CUPE is proud to celebrate and acknowledge Nursing Week 2018. Nursing Week is a time to recognize the year-round dedication and achievements of Registered Practical Nurses (RPNs) and Personal Support Workers (PSWs), and to increase awareness of their contributions to the well-being of Canadians. "
 thumbnail = "/img/news/rpn-info-cut.png"
 title = "Nursing Week's RPN Appreciation Day (May 8)"
