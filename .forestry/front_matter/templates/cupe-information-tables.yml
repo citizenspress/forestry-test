@@ -2,14 +2,14 @@
 hide_body: false
 is_partial: false
 fields:
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
 - name: date
   label: Date
   type: datetime
-  hidden: false
-  default: ''
-- name: title
-  label: Title
-  type: text
   hidden: false
   default: ''
 - name: description
@@ -17,9 +17,14 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- name: categories
-  label: Categories
-  type: tag_list
+- name: thumbnail
+  label: Thumbnail
+  type: file
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
   hidden: false
   default: ''
 - name: type
