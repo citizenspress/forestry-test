@@ -6,12 +6,13 @@ fields:
   label: Categories
   type: tag_list
   hidden: false
-  default: ''
+  default:
+  - news
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
 - name: description
   label: Description
   type: textarea
