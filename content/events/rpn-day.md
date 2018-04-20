@@ -6,8 +6,6 @@ thumbnail = "/img/news/rpn-info-cut.png"
 title = "Nursing Week's RPN Appreciation Day"
 
 +++
-
-
 # Join CUPE Local 1974 for Nursing Week' RPN Appreciation Day  
 
 
