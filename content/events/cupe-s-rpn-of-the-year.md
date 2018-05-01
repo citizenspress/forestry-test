@@ -3,7 +3,7 @@ categories = ["news"]
 date = "2018-05-01T04:00:00+00:00"
 description = "CUPE RPN of the Year - Local 1974's Susan Cooper"
 tags = []
-thumbnail = ""
+thumbnail = "/uploads/2018/05/01/Rvsd May 1 RPN of the Yr Flyer (1).jpg"
 title = "CUPE'S RPN OF THE YEAR"
 type = "news"
 
