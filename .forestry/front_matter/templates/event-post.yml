@@ -7,7 +7,7 @@ fields:
 - name: categories
   label: Categories
   type: tag_list
-  hidden: false
+  hidden: true
   default:
   - events
 - name: date
