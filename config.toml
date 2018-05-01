@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://cupe1974.ca"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
@@ -21,6 +21,6 @@ subtitle = "Kingston's Hospital Workers"
 [params.widgets]
 categories = true
 recent_articles = true
-search = false
+search = true
 tags = true
 tags_counter = true
