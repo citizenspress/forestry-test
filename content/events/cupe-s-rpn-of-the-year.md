@@ -2,7 +2,6 @@
 categories = ["news"]
 date = "2018-05-01T04:00:00+00:00"
 description = "CUPE RPN of the Year - Local 1974's Susan Cooper"
-draft = true
 tags = []
 thumbnail = ""
 title = "CUPE'S RPN OF THE YEAR"
