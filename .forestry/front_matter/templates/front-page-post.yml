@@ -7,6 +7,7 @@ fields:
   type: tag_list
   hidden: false
   default: []
+  description: " (news, events, or factsheets)"
 - name: date
   label: Date
   type: datetime
