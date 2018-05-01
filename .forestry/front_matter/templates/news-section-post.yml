@@ -17,7 +17,7 @@ fields:
   hidden: false
   default: Invalid date
 - name: description
-  label: Description
+  label: 'Description: Shows up in the post list'
   type: textarea
   hidden: false
   default: ''
@@ -31,11 +31,11 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: news
 - type: file
   name: thumbnail
   label: thumbnail image
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: news
