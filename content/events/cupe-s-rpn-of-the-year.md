@@ -1,10 +1,10 @@
 +++
 categories = ["news", "events"]
 date = "2018-05-01T04:00:00+00:00"
-description = "CUPE RPN of the Year - Local 1974's Susan Cooper"
+description = "CUPE RPN of the Year - Local 1974's Susan Cooper. Please join us on May 8th for a Nursing Appreciation Lunch to acknowledge all our RPN and PSW Members and celebrate Susan’s Award!"
 tags = ["rpn"]
 thumbnail = "/uploads/2018/05/01/Rvsd May 1 RPN of the Yr Flyer (1).jpg"
-title = "CUPE'S RPN OF THE YEAR"
+title = "CUPE'S RPN of the Year"
 type = "news"
 
 +++
