@@ -1,14 +1,14 @@
 +++
 categories = ["factsheets"]
 date = "2018-04-10T14:08:24Z"
-description = "With a CUPE Collective Agreement part time employees receive the same rights and benefits as full time employees such as job security, maternity leave, bereavement leave, safety footwear, vacation, etc."
+description = "With a CUPE Collective Agreement Part-time employees receive the same rights and benefits as Full-time employees such as job security, maternity leave, bereavement leave, safety footwear, vacation, etc."
 tags = ["bargaining"]
 thumbnail = "/img/post/precarious.png"
 title = "Part-Time Employees"
 
 +++
-With a CUPE Collective Agreement part time employees receive the same rights and benefits as full time employees such as job security, maternity leave, bereavement leave, safety footwear, vacation, etc.
+With a CUPE Collective Agreement Part-time employees receive the same rights and benefits as Full-time employees such as job security, maternity leave, bereavement leave, safety footwear, vacation, etc.
 
-As a result of CUPE’s seniority based job posting language, after the merger vote, part time employees are treated equally in the job promotion process. If a part time employee can do the job and they have the seniority, they get the job. And remember with CUPE one year’s seniority is based on only 1725 hours worked.
+As a result of CUPE’s seniority based job posting language, after the merger vote, Part-time employees are treated equally in the job promotion process. If a Part-time employee can do the job and they have the seniority, they get the job. And remember with CUPE one year’s seniority is based on only 1725 hours worked.
 
-Also, with a CUPE Collective Agreement part time employees can join the pension plan without a reduction to their percent in lieu of benefits.  If you work at least one stat holiday in a year then having an unreduced percent lieu of benefits is financially superior to being paid averaged hours for stat holidays not worked. 
+Also, with a CUPE Collective Agreement Part-time employees can join the pension plan without a reduction to their percent in lieu of benefits.  If you work at least one stat holiday in a year, then having an unreduced percent in lieu of benefits is financially superior to being paid averaged hours for stat holidays not worked.
