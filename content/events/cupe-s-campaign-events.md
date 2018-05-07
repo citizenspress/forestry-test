@@ -2,6 +2,7 @@
 categories = ["events"]
 date = "2018-05-07T14:29:50+00:00"
 description = "A full list of CUPE's drop-in sessions & information dinner/lunches. Come by and speak to a CUPE organizer, representatives, ask questions or grab some coffee and food."
+draft = true
 thumbnail = "/uploads/2018/05/07/emergency.jpg"
 title = "CUPE's Campaign Events"
 
