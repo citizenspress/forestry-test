@@ -11,4 +11,4 @@ With a CUPE Collective Agreement part time employees receive the same rights and
 
 As a result of CUPE’s seniority based job posting language, after the merger vote, part time employees are treated equally in the job promotion process. If a part time employee can do the job and they have the seniority, they get the job. And remember with CUPE one year’s seniority is based on only 1725 hours worked.
 
-Also, with a CUPE Collective Agreement part time employees can join the pension plan without a reduction to their percent in lieu of benefits.
+Also, with a CUPE Collective Agreement part time employees can join the pension plan without a reduction to their percent in lieu of benefits.  If you work at least one stat holiday in a year then having an unreduced percent lieu of benefits is financially superior to being paid averaged hours for stat holidays not worked. 
