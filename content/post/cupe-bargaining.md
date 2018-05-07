@@ -11,7 +11,7 @@ title = "CUPE & Collective Bargaining"
 
 CUPE bargaining sets the lead for all hospital Service, RPN, and Clerical workers in Ontario. Comparing our collective agreements to other unions bears this out. CUPE has superior language on seniority rights, job security, layoffs and recall, and health and safety to name but a few issues. This is true here at KGH and across the province.
 
-CUPE is currently leading the way by working with two other unions (Unifor and SEIU) to put pressure on the Province and the Ontario Hospital Association (OHA) to get back to the table and negotiate a well deserved wage increase. CUPE sets the pattern for Hospital Bargaining in Ontario, we don’t sit back and wait.
+CUPE has locked down our contract for the next 4 years, with wage increases. CUPE sets the pattern for Hospital Bargaining in Ontario, we don’t sit back and wait.
 
 ## Negotiating the new ‘First’ Collective Agreement
 
