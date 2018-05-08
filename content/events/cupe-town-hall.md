@@ -1,6 +1,6 @@
 +++
 categories = ["events"]
-date = "2018-05-10T23:00:42+00:00"
+date = "2018-05-08T23:00:42+00:00"
 description = "Town Hall with CUPE's National President Mark Hancock"
 thumbnail = "/uploads/2018/05/08/NPO pic.png"
 title = "CUPE TOWN HALL"
