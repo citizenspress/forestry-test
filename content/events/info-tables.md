@@ -1,6 +1,6 @@
 +++
 categories = ["events"]
-date = "2017-11-08T08:59:22+06:30"
+date = "2018-05-08T01:29:22+00:00"
 description = "CUPE information tables will be set up at KGH (Cafeteria) and HDH (Staff Lounge) everyday from 7am to 7pm so come visit us!"
 thumbnail = "/img/events/question.jpg"
 title = "CUPE Information Tables"
