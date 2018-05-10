@@ -10,7 +10,7 @@ type = "post"
 +++
 Honoured for her skills and compassion in nursing
 
-<img style="float: right;" src="/uploads/2018/05/09/2nd pic Susan Cooper.png">
+<img style="float: right; max-width:44%;" src="/uploads/2018/05/09/2nd pic Susan Cooper.png">
 
 Susan Cooper, a registered practical nurse at KGH has been awarded the Nurse of the Year, by the RPN committee of  CUPE’s Ontario Council of Hospital Unions.
 
