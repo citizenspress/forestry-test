@@ -8,9 +8,13 @@ thumbnail = "/uploads/2018/05/10/standard-set.jpg"
 title = "CUPE sets the standard"
 
 +++
+## CUPE setting the standard
+
 - Part-time in pension: CUPE gets 14%, OPSEU gets 10%  
 - CUPE: the strongest job security rights  
-- CUPE: the strongest job posting rights 
+- CUPE: the strongest job posting rights  
+- CUPE: 100% success raising wages after mergers
+
 
 ## The hospital will try to downsize after the merger
 
@@ -46,11 +50,16 @@ With CUPE if you retire early you have your benefits to age 65 and the employer 
 
 CUPE’s Pregnancy and Parental Leave is topped up to 93% and you are paid for the waiting period.  With OPSEU you only receive 84% and you are not paid during the waiting period.
 
-## WAGE HARMONIZATION AFTER THE MERGER 
+## Wage Harmonization after the vote
 
 CUPE has a 100% success rate in arbitrating wages to the 
 highest level after a PSLRTA merger.
 
 CUPE will bring all wages to the highest rates. In mergers 
-across Ontario, we have successfully arbitrated every single 
-wage rate to the highest level after a hospital merger.
+across Ontario, we have successfully arbitrated every single wage rate to the highest level after a hospital merger.
+
+## With CUPE you get
+
+- A strong local: CUPE Local 1974 controls its own resources.
+- Central Bargaining: CUPE's great contract
+- Ontario's Largest Union: CUPE has 650,000 members nation-wide.
