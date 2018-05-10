@@ -2,7 +2,7 @@ baseurl = "http://cupe1974.ca"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
-paginate = "5"
+paginate = "7"
 theme = "mainroad"
 title = "CUPE 1974"
 [Author]
