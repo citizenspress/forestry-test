@@ -2,7 +2,6 @@
 categories = ["factsheets"]
 date = "2018-04-10T14:08:24Z"
 description = "With a CUPE Collective Agreement Part-time employees receive the same rights and benefits as Full-time employees such as job security, maternity leave, bereavement leave, safety footwear, vacation, etc."
-draft = true
 tags = ["bargaining"]
 thumbnail = "/uploads/2018/05/10/pt.jpg"
 title = "Part-Time Employees"
