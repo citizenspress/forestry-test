@@ -5,7 +5,7 @@ description = "Make sure to vote on May 16th, 17th or 18th - Every vote counts!"
 draft = true
 tags = []
 thumbnail = "/uploads/2018/05/10/choosecupe.jpg"
-title = "Merger Vote Schedule"
+title = "Vote Schedule (May 16, 17, 18)"
 
 +++
 **On May 16th, 17th and 18th make sure to vote!**
