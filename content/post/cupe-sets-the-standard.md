@@ -2,7 +2,6 @@
 categories = ["factsheets"]
 date = "2018-05-10T03:01:44+00:00"
 description = "With CUPE’s Central Agreement you will already have the protection you need. When Kingston Health Science Centre starts consolidating programs and departments with CUPE’s solid job security you will be protected. With OPSEU you will still be at the table trying to catch up while the layoffs take place."
-draft = true
 tags = ["bargaining"]
 thumbnail = "/uploads/2018/05/10/standard-set.jpg"
 title = "CUPE sets the standard"
@@ -15,10 +14,13 @@ title = "CUPE sets the standard"
 - CUPE: the strongest job posting rights  
 - CUPE: 100% success raising wages after mergers
 
+---
 
 ## The hospital will try to downsize after the merger
 
 With CUPE’s Central Agreement you will already have the protection you need. When Kingston Health Science Centre starts consolidating programs and departments with CUPE’s solid job security you will be protected. With OPSEU you will still be at the table trying to catch up while the layoffs take place.
+
+---
 
 ## CUPE: the strongest contract by far
 
@@ -50,6 +52,8 @@ With CUPE if you retire early you have your benefits to age 65 and the employer 
 
 CUPE’s Pregnancy and Parental Leave is topped up to 93% and you are paid for the waiting period.  With OPSEU you only receive 84% and you are not paid during the waiting period.
 
+---
+
 ## Wage Harmonization after the vote
 
 CUPE has a 100% success rate in arbitrating wages to the 
@@ -57,6 +61,8 @@ highest level after a PSLRTA merger.
 
 CUPE will bring all wages to the highest rates. In mergers 
 across Ontario, we have successfully arbitrated every single wage rate to the highest level after a hospital merger.
+
+---
 
 ## With CUPE you get
 
