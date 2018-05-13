@@ -12,7 +12,7 @@ title = "CUPE Members Ratify Four-Year Contract"
 > * Wage increases & retro
 > * Violence protections
 
-_With restructuring and funding cuts coming a four-year deal means security_
+**_With restructuring and funding cuts coming a four-year deal means security_**
 
 # Contract Highlights
 
