@@ -35,9 +35,8 @@ The first wage increase of 1.4% is retroactive to September 29, 2017 for all hou
 
 ## Comprehensive violence protection:
 
-Violence protections have been negotiated, including a commitment to a workplace free of violence.
-
-Seniority rights for part-time on disability: Part-time staff will now accumulate seniority while on a disability.
+* Violence protections have been negotiated, including a commitment to a workplace free of violence.
+* Seniority rights for part-time on disability: Part-time staff will now accumulate seniority while on a disability.
 
 ### Note:
 
