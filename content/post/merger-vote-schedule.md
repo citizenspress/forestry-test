@@ -1,7 +1,7 @@
 +++
 categories = ["events"]
 date = "2018-05-10T17:25:15Z"
-description = "VOTE TO PROTECT WHAT WE HAVE!"
+description = "CHOOSE CUPE\nSTRENGTH & PROTECTION - YOURS TO KEEP \nCUPE doesn't just promise they will negotiate the best language, CUPE delivers.  When faced with a tough round of negotiations, CUPE formed an alliance with SEIU and UNIFOR to achieve a 'no concession' settlement.  OPSEU accepted some of those same concessions without even attempting to fend them off at arbitration.  The choice is easy."
 tags = []
 thumbnail = "/uploads/2018/05/10/choosecupe.jpg"
 title = "Vote Schedule (May 16, 17, 18)"
