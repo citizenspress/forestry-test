@@ -2,7 +2,6 @@
 categories = ["news"]
 date = "2018-05-13T19:07:29+00:00"
 description = "98% of members voted for the new contract. Retro will be paid on June 29, on a separate cheque. Part-time will also be paid 14% in lieu of benefits for those hours. Contract locks-in the best job security for 4-years."
-draft = true
 tags = ["bargaining", "rpn", "clerical"]
 thumbnail = "/uploads/2018/05/13/ratified.png"
 title = "CUPE Members Ratify Four-Year Contract"
