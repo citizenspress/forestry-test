@@ -1,6 +1,6 @@
 +++
 categories = ["events"]
-date = "2018-05-10T17:25:15Z"
+date = "2018-05-13T19:25:15+00:00"
 description = "STRENGTH & PROTECTION - YOURS TO KEEP.  \nCUPE doesn't just promise they will negotiate the best language, CUPE delivers.  When faced with a tough round of negotiations, CUPE formed an alliance with SEIU and UNIFOR to achieve a 'no concession' settlement.  OPSEU accepted some of those same concessions without even attempting to fend them off at arbitration.  The choice is easy."
 tags = []
 thumbnail = "/uploads/2018/05/10/choosecupe.jpg"
