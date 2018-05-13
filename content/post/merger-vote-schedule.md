@@ -2,7 +2,6 @@
 categories = ["events"]
 date = "2018-05-10T17:25:15Z"
 description = "VOTE TO PROTECT WHAT WE HAVE!"
-draft = true
 tags = []
 thumbnail = "/uploads/2018/05/10/choosecupe.jpg"
 title = "Vote Schedule (May 16, 17, 18)"
