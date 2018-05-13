@@ -29,7 +29,7 @@ The first wage increase of 1.4% is retroactive to September 29, 2017 for all hou
 ## Wages:
 
 * Increase by 1.4% Sept. 29, 2017
-* Increase again by 1.4% Sept, 29, 2018
+* Increase again by 1.4% Sept. 29, 2018
 * Increase again by 1.6% Sept. 29, 2019
 * Increase again by 1.65% Sept. 29, 2020
 
