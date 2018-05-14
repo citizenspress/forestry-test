@@ -27,7 +27,7 @@ The choice is easy. Vote CUPE.
 
 ---
 
-## Job Postings Job Postings
+## Job Postings 
 
 **CUPE** is the only health care union with seniority-based job postings. With CUPE, the senior, qualified worker gets the job.
 
