@@ -1,6 +1,6 @@
 +++
 categories = ["events"]
-date = "2018-05-14T06:16:50+00:00"
+date = "2018-05-15T06:16:50+00:00"
 description = "CUPE is proud to recognize the year-round  dedication and achievements of all our members.  Our members ensure that  patients and their families are supported through what are often  stressful situations and with confidence that the hospital  is clean and safe for themselves and their families. "
 thumbnail = "/uploads/2018/04/20/bbq.JPG"
 title = "Member Appreciation Lunch (May 14)"
