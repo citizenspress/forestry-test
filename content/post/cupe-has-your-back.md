@@ -59,3 +59,5 @@ OPSEU just agreed to lower the Network Technician wage rate and to red circle th
 **CUPE** has the most comprehensive violence language in the hospital sector in Ontario. The new language is enforceable through the grievance arbitration procedure.
 
 **OPSEU** has no violence language in their Collective Agreement.
+
+#### The Choice is Easy: Vote CUPE
