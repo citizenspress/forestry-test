@@ -11,7 +11,8 @@ title = "Building a new local together"
 
 New local union bylaws will need to be developed, answering questions such as: 
 
-* How many executive members will we have? How much will our dues be? 
+* How many executive members will we have? 
+* How much will our dues be? 
 * Who goes to conventions? 
 * When will membership meetings be? 
 * How many members for quorum? 
