@@ -2,7 +2,6 @@
 categories = ["factsheets"]
 date = "2018-05-14T19:24:10+00:00"
 description = "With CUPE, you have all the protection and strong Collective Agreement language you need. CUPE has just locked down an outstanding Central Hospital Collective Agreement. While the employer is restructuring, OPSEU will be playing catch-up trying to bargain what CUPE already has. The choice is easy. Vote CUPE."
-draft = true
 tags = []
 thumbnail = "/uploads/2018/05/14/cupecheck.png"
 title = "Who really has your back?"
