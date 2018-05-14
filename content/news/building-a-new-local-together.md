@@ -1,5 +1,9 @@
 +++
+categories = []
 date = "2018-05-14T11:44:08+00:00"
+description = "What you can expect if CUPE wins the vote."
+tags = []
+thumbnail = "/uploads/2018/05/14/Hosp HHHS pic.png"
 title = "Building a new local together"
 
 +++
