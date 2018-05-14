@@ -17,11 +17,15 @@ The choice is easy. Vote CUPE.
 
 **OPSEU** has agreed to concessions, including reducing the Part-timers’ percentage in lieu of benefits to 6%.
 
+---
+
 ## Job Security
 
 **CUPE** has the most comprehensive job security language in the province, including chain bumping. This is why CUPE has the lowest layoff rate of any health care union in Ontario.
 
 **OPSEU** has inferior provisions with limited choices which could leave you in the least desirable shift or location.
+
+---
 
 ## Job Postings Job Postings
 
@@ -29,11 +33,15 @@ The choice is easy. Vote CUPE.
 
 OPSEU has skills and ability first and seniority second, leading to favouritism.
 
+---
+
 ## Wage Harmonization
 
 **CUPE** is 100% successful at arbitrating post-merger wages to the highest wage rate.
 
 OPSEU just agreed to lower the Network Technician wage rate and to red circle the current incumbent. Draw your own conclusions.
+
+---
 
 ## Percentage in Lieu of Benefits
 
@@ -41,17 +49,23 @@ OPSEU just agreed to lower the Network Technician wage rate and to red circle th
 
 **OPSEU** has 12% reduced to 10% when in the pension, further reduced to 6% when returning part-time after retiring.
 
+---
+
 ## Part-Time Seniority
 
 **CUPE** Part-Timers work 1725 hours for one year of seniority.
 
 **OPSEU** Part-Timers have to work 225 hours more (1950) to get one year of seniority.
 
+---
+
 ## Pregnancy / Parental Leave
 
 **CUPE** has an employer-paid waiting period and top-up during pregnancy and parental leave and both are 93% of pre-leave wages.
 
 **OPSEU** has an unpaid waiting period and a top-up of only 84%.
+
+---
 
 ## Violence Prevention
 
