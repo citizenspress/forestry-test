@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["news"]
 date = "2018-05-15T16:55:19+00:00"
 description = "CUPE will not campaign by disparaging another union’s members and will base our success on our strong track record of representing our members at all levels of CUPE."
 tags = []
 thumbnail = "/uploads/2018/04/16/unions-together.png"
-title = "JUST THE FACTS"
+title = "Just the Facts"
 
 +++
 As some of you may have seen OPSEU has made allegations that some executive members own the CUPE Local 1974 union hall.  This is yet another desperate attempt to distract members from focusing on the important facts and the inferior contract language that OPSEU has or the concessions they agreed to in their most recent round of bargaining.
