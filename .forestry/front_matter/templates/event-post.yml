@@ -1,9 +1,4 @@
 ---
-pages:
-- events/voting-schedule.md
-- events/cupe-town-hall.md
-- events/cupe-s-campaign-events.md
-- events/member-appreciation-bbq--may-14-.md
 hide_body: false
 is_partial: false
 fields:
@@ -38,3 +33,8 @@ fields:
   type: text
   hidden: true
   default: events
+pages:
+- events/voting-schedule.md
+- events/cupe-town-hall.md
+- events/cupe-s-campaign-events.md
+- events/member-appreciation-bbq--may-14-.md
