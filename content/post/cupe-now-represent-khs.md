@@ -2,7 +2,6 @@
 categories = ["news"]
 date = "2018-05-22T20:47:55+00:00"
 description = "More than 1,900 Kingston Health Sciences Centre (KHSC) staff have voted to be represented by CUPE, Canada’s largest health care union. Clerical staff, registered practical nurses and care aides, porters, dietary, environmental, trades and other services staff at both KHSC sites (Kingston General Hospital and Hotel Dieu Hospital) took part in a workplace representation vote at the end of last week supervised by the Ontario Labour Relations Board. A solid majority of staff voted for CUPE to represent them."
-draft = true
 tags = []
 thumbnail = "/uploads/2018/05/22/celebrates-kingston-hospitals.png"
 title = "CUPE will now represent over 1,900 staff at Kingston Health Sciences Centre"
